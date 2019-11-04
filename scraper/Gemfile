@@ -13,3 +13,5 @@ gem "byebug", "~> 11.0", :groups => [:development, :text]
 gem "pry", "~> 0.12.2", :groups => [:development, :text]
 
 gem "rest-client", "~> 2.1"
+
+gem "rubocop", "~> 0.76.0", :groups => [:development, :test]
